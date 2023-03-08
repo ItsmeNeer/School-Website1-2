@@ -1,0 +1,11 @@
+#video{
+    width:100%;
+    height:500px;
+    border:none;
+}
+.schooldiv{
+    border:1px solid cyan;
+}
+.schooldiv img{
+    width:100%;
+}
